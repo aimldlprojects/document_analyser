@@ -1,17 +1,18 @@
 *Weekly meeting points:*
 
-* *Minor Project:* Summarization/Q&A based on URL
-    * Text box - manual copying of info
-    * URL - knowledge source
-    * PDF upload
 * *Tech Stack:*
+* project planing
     * Frontend: React JS, React Native
     * Backend: Fast API
+      * gemini, groke
     * Version control: Git
+    * web domain (free) (DNS integration with UI)
+    * App store integration with apk
+    * CI/CD: GitHub Actions
     * Deployment: ECS (paid), Docker, Kubernetes/EKS (paid)
     * ML: MLflow
     * Monitoring: Grafana
-    * CI/CD: GitHub Actions
+    * ---
     * Cloud storage: S3 (paid)
     * Database: DB (paid)
     * Paid services: OpenAI key (paid), web domain (paid), Medium (paid), cursor.ai/copilot (paid)
