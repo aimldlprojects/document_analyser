@@ -2,6 +2,15 @@
 document analyser to accepts pdf document or url and answer the user questions using llm models
 
 
+Features:
+Accepts:
+* URL - knowledge source
+* PDF upload
+* user question
+Response:
+* genai response based on the pdf or url knowledge source.
+
+
 Tasks:
 ## Harsha:
 * fast api for upload, url, ai response.
